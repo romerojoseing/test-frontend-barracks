@@ -125,6 +125,10 @@
               "devServerTarget": "test-frontend-barracks:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
         }
       }
     }
