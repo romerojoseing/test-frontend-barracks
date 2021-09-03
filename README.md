@@ -4,7 +4,7 @@
 
 _This is a challenge from testing, specialized in frontend develop, application where the Nasa and Poke API is consumed and applied._
 
-## [Try the live demo](https://romerojoseing.github.io/test-frontend-menoo/) ⚡
+## [Try the live demo](https://romerojoseing.github.io/test-frontend-barracks/) ⚡
 
 <br>
 
@@ -29,7 +29,7 @@ Any browser to open the project.
 _To use this project you will need to clone this repository or download it to your computer. If you choose to download it directly in the upper right part of the repository you will have the option, if it is not your case you can clone it using the following command._
 
 ```ssh
-  $ git clone https://github.com/romerojoseing/test-frontend-menoo.git
+  $ git clone https://github.com/romerojoseing/test-frontend-barracks.git
 ```
 
 <br>

@@ -58,6 +58,7 @@
           <ng-template ngbNavContent>
             <div class="poke-section" *ngIf="pokemonInfo !== null">
               <select class="form-select" aria-label="Default select example" (change)="sendPoke($event)">
+                <option disabled selected>Seleccionar pokemon</option>
                 <option *ngFor="let poke of pokemonInfo.results" value="{{poke.name}}" >{{poke.name}}</option>
               </select>
   
